@@ -12,9 +12,10 @@
 
 \begin{document}
 
-\[
 # Electrodynamics Retarded Fields
 <p>It takes time for electromagnetic fields to travel from their source.  We can calculate how electromagnetic fields propagate from a current source by using the equations </p>
+
+\[
   \mathbf{E}(\mathbf{r}) = \frac{1}{4 \pi \epsilon_0} \int\limits_{\mathcal{V}} \frac{\rho(\mathbf{r}')}{\rcurs^2} \hrcurs d \tau'
 \]
 
